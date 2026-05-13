@@ -68,7 +68,7 @@ src/
 
 ## Author
 
-**Farhaan Malik**  
+**Aditya Sharma**  
 Frontend Developer | React Enthusiast
 
 ## License
